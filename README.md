@@ -1,5 +1,7 @@
-# Community-Manager
+# FLOWorks
 
 We live in a generation where tech plays a very important role in almost all our daily activities. <br/>
 
-This community manager mainly looks at improving quality of life and making day to day activities more hassle free. <br/>
+FLOWorks aims at connecting businesses(ranging from local to international) with people for service rendering to promote a hassle-free lifestyle. <br/>
+
+
